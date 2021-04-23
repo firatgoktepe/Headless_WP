@@ -1,5 +1,7 @@
 # Headless WordPress Getting Started Example
 
+Headless WP test site that its front-end built by React
+
 ## Setup
 
 See the [setup steps](https://github.com/wpengine/headless-framework#quick-start).
