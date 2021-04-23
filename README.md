@@ -1,6 +1,6 @@
 # Headless WordPress Getting Started Example
 
-Headless WP test site that its front-end built by React
+Headless WP test site that its front-end built by React using WPEngine's Atlas framework
 
 ## Setup
 
