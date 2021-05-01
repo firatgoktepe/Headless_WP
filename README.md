@@ -2,6 +2,9 @@
 
 Headless WP test site that its front-end built by React using WPEngine's Atlas framework
 
+- Nextjs
+
+
 ## Setup
 
 See the [setup steps](https://github.com/wpengine/headless-framework#quick-start).
