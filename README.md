@@ -3,6 +3,7 @@
 Headless WP test site that its front-end built by React using WPEngine's Atlas framework
 
 - Nextjs
+- Typescript
 
 
 ## Setup
